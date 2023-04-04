@@ -1,4 +1,4 @@
-### ChatGPT注册教程
+## AI账号注册教程
 
 > 公众号《阿杰的人生路》
 >
@@ -6,61 +6,44 @@
 >
 > 回复“**星球**”2字，加入星球，即可免费获得全套AI账号（Chat GPT、New Bing、Gmail、MidJourney）和辅助工具。
 
+### ChatGPT注册教程点击
+
 #### 所需材料
 
 1.访问外网条件（梯子、魔法）
 2.国外手机号（淘宝、sms接收验证码）
 3.Gmail邮箱
 
-#### 注册流程
+#### 详细图文注册步骤
 
-1.首先有一个Gmail邮箱，Gmail邮箱网页注册会有问题。
+[点击直达ChatGPT详细图文注册步骤](ChatGPT.md)
 
-2.使用魔法，选择非亚洲地区。
+### 文心一言注册教程
 
-3.浏览器隐身模式打开 Open AI 官网 [OpenAI](https://openai.com/)
+#### 所需材料
 
-4.打开Open AI 官网 选择 Product 下的 ChatGPT
+百度账号
 
-![image-20230404151942557](ChatGPT/image-20230404151942557.png)
+#### 详细图文注册步骤
 
-5.进入 [ChatGPT]( https://chat.openai.com/auth/login) 页面 选择Sign up
+[点击直达文心一言详细图文注册步骤](文心一言.md)
 
-![image-20230404152044529](ChatGPT/image-20230404152044529.png)
+### New Bing注册教程
 
-6. 使用 Google 登录（如果这个页面打不开，就换个节点，一般都是魔法问题）
+#### 所需材料
 
-![image-20230404152326633](ChatGPT/image-20230404152326633.png)
+邮箱
 
-![image-20230404152515870](ChatGPT/image-20230404152515870.png)
+#### 详细图文注册步骤
 
+[点击直达New Bing详细图文注册步骤](NewBing.md)
 
+### MidJourney注册教程
 
-![image-20230404152550944](ChatGPT/image-20230404152550944.png)
+#### 所需材料
 
-![image-20230404152626753]( ChatGPT/image-20230404152626753.png)
+discord账号
 
-7.输入注册信息
+#### 详细图文注册步骤
 
-![image-20230404152714389]( ChatGPT/image-20230404152714389.png)
-
-8.获取验证码
-
-![image-20230404154459867](ChatGPT/image-20230404154459867.png)
-
-如果提示这个，就是说你手机号不行，换手机号。
-
- We've detected suspicious behavior from phone numbers similar to yours. Please try again later or contact us through our help center at help.openai.com.
-
-9.输入验证码刷新页面。
-
-10.注册完成，一直Next，Done。这样你就可以问他问题了。
-
-![image-20230404154039653](ChatGPT/image-20230404154039653.png)
-
-![image-20230404154228483](ChatGPT/image-20230404154228483.png)
-
-![image-20230404154251547](ChatGPT/image-20230404154251547.png)
-
-![image-20230404154306876](ChatGPT/image-20230404154306876.png)
-
+[点击直达MidJourney详细图文注册步骤](MidJourney.md)
