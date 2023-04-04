@@ -2,19 +2,20 @@
 
 > 公众号《阿杰的人生路》
 >
-> 回复“**gmail**”有视频注册教程。
->
 > 回复“**星球**”2字，加入星球，即可免费获得全套AI账号（Chat GPT、New Bing、Gmail、MidJourney）和辅助工具。
 
 #### 所需材料
 
-1.访问外网条件（梯子、魔法）
-2.国外手机号（淘宝、sms接收验证码）
-3.Gmail邮箱
+1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5)
+2.国外手机号（淘宝、[sms接收验证码](https://sms-activate.org/?ref=4372520)）
+
+- 推荐自己注册一个sms，以后需要验证码还可以用，比淘宝买便宜很多。首次充值多赠10%，充值1美元选择肯尼亚手机号可以注册4个ChatGPT账号。
+
+3.Gmail邮箱 [Gmail邮箱注册教程](gmail.md)
 
 #### 注册流程
 
-1.首先有一个Gmail邮箱，Gmail邮箱网页注册会有问题。
+1.首先有一个Gmail邮箱，Gmail邮箱网页注册会有问题，[Gmail邮箱注册教程](gmail.md)。
 
 2.使用魔法，选择非亚洲地区。
 
