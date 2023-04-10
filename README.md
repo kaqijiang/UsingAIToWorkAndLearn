@@ -2,13 +2,13 @@
 
 > 公众号《阿杰的人生路》有完整的用AI工作、学习、创作教程，不断更新
 >
-> 回复“**星球**”2字，加入星球，即可免费获得全套AI账号（Chat GPT、New Bing、Gmail、MidJourney）和辅助工具。
+> 回复“**星球**”2字，即可加入星球。
 
 ### ChatGPT注册教程点击
 
 #### 所需材料
 
-1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5)
+1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5) 不注册签到也可正常使用。
 
 2.国外手机号（淘宝、[sms接收验证码](https://sms-activate.org/?ref=4372520)）
 
