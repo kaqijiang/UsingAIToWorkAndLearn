@@ -8,7 +8,7 @@
 
 #### 所需材料
 
-1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5) 不注册签到也可正常使用。
+1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=hwWF) 不注册签到也可正常使用。
 
 2.国外手机号（淘宝、[sms接收验证码](https://sms-activate.org/?ref=4372520)）
 

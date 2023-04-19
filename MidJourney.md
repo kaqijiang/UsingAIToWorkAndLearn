@@ -7,7 +7,7 @@
 
 #### 所需材料
 
-1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5)
+1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=hwWF)
 2.Gmail/outLook邮箱 [Gmail邮箱注册教程](gmail.md)
 
 #### 备注

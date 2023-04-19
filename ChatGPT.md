@@ -5,7 +5,7 @@
 
 #### 所需材料
 
-1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=QRY5)
+1.[访问外网条件（梯子、魔法）](https://www.hjtnt.pro/auth/register?code=hwWF)
 2.国外手机号（淘宝、[sms接收验证码](https://sms-activate.org/?ref=4372520)）
 
 - 推荐自己注册一个sms，以后需要验证码还可以用，比淘宝买便宜很多。首次充值多赠10%，充值1美元选择肯尼亚手机号可以注册4个ChatGPT账号。
