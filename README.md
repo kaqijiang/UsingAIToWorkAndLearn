@@ -14,7 +14,7 @@
 
 2.国外手机号（淘宝、[sms接收验证码](https://sms-activate.org/?ref=4372520)）
 
-3.Gmail邮箱 [Gmail邮箱注册教程](gmail.md)
+3.Gmail邮箱 [Gmail邮箱注册教程](Gmail.md)
 
 #### 详细图文注册步骤
 
