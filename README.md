@@ -6,8 +6,9 @@
 
 ### Auto-GPT中文版项目
 
-[Auto-GPT中文版](https://github.com/kaqijiang/Auto-GPT-ZH) https://github.com/kaqijiang/Auto-GPT-ZH
-[Auto-GPT中文网页版](https:www.autogpt-zh.com) https:www.autogpt-zh.com
+[Auto-GPT中文版](https://github.com/kaqijiang/Auto-GPT-ZH) 
+
+[Auto-GPT中文网页版](https:www.autogpt-zh.com) 
 
 分享一个可以免费获取API-Key和ChatGPT账号网站
 
