@@ -4,9 +4,18 @@
 >
 > 回复“**星球**”2字，即可加入星球。
 
-[Auto-GPT中文版](https://github.com/kaqijiang/Auto-GPT-ZH) https://github.com/kaqijiang/Auto-GPT-ZH
+### Auto-GPT中文版项目
 
-### ChatGPT注册教程点击
+[Auto-GPT中文版](https://github.com/kaqijiang/Auto-GPT-ZH) https://github.com/kaqijiang/Auto-GPT-ZH
+[Auto-GPT中文网页版](https:www.autogpt-zh.com) https:www.autogpt-zh.com
+
+分享一个可以免费获取API-Key和ChatGPT账号网站
+
+<a href="https://fxyu.djsopenai.com/" target="_blank">
+  <img src="./images/yxq.png" width="300">
+</a>
+
+### ChatGPT注册教程
 
 #### 所需材料
 
