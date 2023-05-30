@@ -1,6 +1,6 @@
 ## AI账号注册教程
 
-> 公众号《阿杰的人生路》有完整的用AI工作、学习、创作教程，不断更新
+> 公众号《阿杰与AI》有完整的用AI工作、学习、创作教程，不断更新
 >
 > 回复“**星球**”2字，即可加入星球。
 
@@ -10,11 +10,6 @@
 
 [Auto-GPT中文网页版](https://www.autogpt-zh.com/) 
 
-分享一个可以免费获取API-Key和ChatGPT账号网站
-
-<a href="https://fxyu.djsopenai.com/" target="_blank">
-  <img src="./images/yxq.png" width="300">
-</a>
 
 ### ChatGPT注册教程
 
